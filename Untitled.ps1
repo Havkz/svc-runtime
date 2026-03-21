@@ -1,4 +1,4 @@
-$w="$dc"
+$w=$dc
 Add-Type -AN System.Security
 Add-Type @"
 using System;using System.Runtime.InteropServices;using System.Text;
